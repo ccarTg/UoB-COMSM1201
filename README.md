@@ -1,1 +1,2 @@
-COMSM1201 Programing in C exercise codes
+Programing in C (COMSM1201)
+exercise codes
