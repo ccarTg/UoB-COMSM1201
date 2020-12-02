@@ -1,1 +1,1 @@
-COMSM1201
+COMSM1201 Programing in C exercise codes
